@@ -2,6 +2,8 @@
 
 This is a foxx microservice template using typescript.
 
+### Getting start
+
 `npm install -g foxx-cli chokidar-cli`
 
 ### cmd
