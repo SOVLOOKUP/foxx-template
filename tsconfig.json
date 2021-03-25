@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "esModuleInterop":true,
+        "experimentalDecorators":true,
+        "module": "commonjs",
+        "target": "es2015",
+        "outDir": "./app/src"
+    },
+    "include": [
+        "src/**/*.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}

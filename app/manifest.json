@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/foxx-manifest",
+  "name": "microflow-foxx",
+  "version": "0.0.1",
+  "description": "MicroFlow metasource backend",
+  "thumbnail": "thumbnail.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/microflows/microflow-foxx"
+  },
+  "configuration": {},
+  "files": {},
+  "author": "sovlookup",
+  "main": "src/index.js"
+}
